@@ -77,3 +77,7 @@ Certainly! Here are some potential use cases for the YouTube data analysis scrip
 7. **Content Curation**: Media companies and content aggregators can use the script to curate relevant and popular YouTube videos for their audiences. By analyzing metrics such as view counts and engagement, they can identify high-quality and trending content to feature on their platforms.
 
 These are just a few examples of how the YouTube data analysis script can be used to extract valuable insights and inform decision-making in various domains. The flexibility and versatility of the script make it a powerful tool for analyzing YouTube data for a wide range of purposes.
+
+## Credits:
+Youtube Channel : Thu Vu data analytics
+Youtube Channel : CampuxX
